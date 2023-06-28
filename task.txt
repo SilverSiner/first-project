@@ -1,1 +1,2 @@
 Some text for Yandex practicum
+Modified it for the git status test

@@ -1,1 +1,2 @@
 1. Finish some Git blocks.
+2. Changes to make this file staged.
