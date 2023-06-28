@@ -1,1 +1,1 @@
-Pet project forgIT lessons
+Pet project for GIT lessons
