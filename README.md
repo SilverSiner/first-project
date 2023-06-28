@@ -29,7 +29,7 @@ git init
 
 [Bluetooth](https://bluetooth.com "Here is a Bluetooth page")
 
-## Some numerated and ordinaty lists
+## Some numerated and ordinary lists
 
 * point one
 * point two
@@ -40,10 +40,10 @@ git init
 
 ## Finally some code markdown test
 
-'''java
+```java
 public clas Main{public static void main (String[] args){}}
-'''
+```
 
-'''html
+```html
 <title>Title test</title>
-'''
+```
