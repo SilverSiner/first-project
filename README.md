@@ -41,7 +41,7 @@ git init
 ## Finally some code markdown test
 
 ```java
-public clas Main{public static void main (String[] args){}}
+public class Main{public static void main (String[] args){}}
 ```
 
 ```html
