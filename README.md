@@ -47,3 +47,15 @@ public class Main{public static void main (String[] args){}}
 ```html
 <title>Title test</title>
 ```
+
+# Testing Mermaid chart
+
+HEAD -- this is the head
+Commit -- this is the commit!
+File status:
+
+```mermaid
+Here is the chart description
+```
+
+
